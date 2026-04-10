@@ -654,6 +654,28 @@
   , "ios_version": "16.4"
   }
 , {
+    "emoji": "🙂‍↔️"
+  , "description": "head shaking horizontally"
+  , "category": "Smileys & Emotion"
+  , "aliases": [
+      "head_shaking_horizontally"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
+    "emoji": "🙂‍↕️"
+  , "description": "head shaking vertically"
+  , "category": "Smileys & Emotion"
+  , "aliases": [
+      "head_shaking_vertically"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
     "emoji": "😌"
   , "description": "relieved face"
   , "category": "Smileys & Emotion"
@@ -5425,6 +5447,42 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "🚶‍➡️"
+  , "description": "person walking facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_walking_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🚶‍♀️‍➡️"
+  , "description": "woman walking facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_walking_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🚶‍♂️‍➡️"
+  , "description": "man walking facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_walking_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "🧍"
   , "description": "person standing"
   , "category": "People & Body"
@@ -5503,6 +5561,42 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "🧎‍➡️"
+  , "description": "person kneeling facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_kneeling_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🧎‍♀️‍➡️"
+  , "description": "woman kneeling facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_kneeling_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🧎‍♂️‍➡️"
+  , "description": "man kneeling facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_kneeling_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "🧑‍🦯"
   , "description": "person with white cane"
   , "category": "People & Body"
@@ -5513,6 +5607,18 @@
     ]
   , "unicode_version": "12.1"
   , "ios_version": "13.2"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🧑‍🦯‍➡️"
+  , "description": "person with white cane facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_with_white_cane_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -5529,6 +5635,18 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "👨‍🦯‍➡️"
+  , "description": "man with white cane facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_with_white_cane_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "👩‍🦯"
   , "description": "woman with white cane"
   , "category": "People & Body"
@@ -5539,6 +5657,18 @@
     ]
   , "unicode_version": "12.0"
   , "ios_version": "13.0"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "👩‍🦯‍➡️"
+  , "description": "woman with white cane facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_with_white_cane_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -5555,6 +5685,18 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "🧑‍🦼‍➡️"
+  , "description": "person in motorized wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_in_motorized_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "👨‍🦼"
   , "description": "man in motorized wheelchair"
   , "category": "People & Body"
@@ -5565,6 +5707,18 @@
     ]
   , "unicode_version": "12.0"
   , "ios_version": "13.0"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "👨‍🦼‍➡️"
+  , "description": "man in motorized wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_in_motorized_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -5581,6 +5735,18 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "👩‍🦼‍➡️"
+  , "description": "woman in motorized wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_in_motorized_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "🧑‍🦽"
   , "description": "person in manual wheelchair"
   , "category": "People & Body"
@@ -5591,6 +5757,18 @@
     ]
   , "unicode_version": "12.1"
   , "ios_version": "13.2"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🧑‍🦽‍➡️"
+  , "description": "person in manual wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_in_manual_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -5607,6 +5785,18 @@
   , "skin_tones": true
   }
 , {
+    "emoji": "👨‍🦽‍➡️"
+  , "description": "man in manual wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_in_manual_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
     "emoji": "👩‍🦽"
   , "description": "woman in manual wheelchair"
   , "category": "People & Body"
@@ -5617,6 +5807,18 @@
     ]
   , "unicode_version": "12.0"
   , "ios_version": "13.0"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "👩‍🦽‍➡️"
+  , "description": "woman in manual wheelchair facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_in_manual_wheelchair_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -5666,6 +5868,42 @@
     ]
   , "unicode_version": "6.0"
   , "ios_version": "10.0"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🏃‍➡️"
+  , "description": "person running facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "person_running_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🏃‍♀️‍➡️"
+  , "description": "woman running facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "woman_running_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  , "skin_tones": true
+  }
+, {
+    "emoji": "🏃‍♂️‍➡️"
+  , "description": "man running facing right"
+  , "category": "People & Body"
+  , "aliases": [
+      "man_running_facing_right"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   , "skin_tones": true
   }
 , {
@@ -6629,21 +6867,6 @@
   , "skin_tones": true
   }
 , {
-    "emoji": "👪"
-  , "description": "family"
-  , "category": "People & Body"
-  , "aliases": [
-      "family"
-    ]
-  , "tags": [
-      "home"
-    , "parents"
-    , "child"
-    ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  }
-, {
     "emoji": "👨‍👩‍👦"
   , "description": "family: man, woman, boy"
   , "category": "People & Body"
@@ -6994,6 +7217,65 @@
     ]
   , "unicode_version": "13.0"
   , "ios_version": "14.0"
+  }
+, {
+    "emoji": "👪"
+  , "description": "family"
+  , "category": "People & Body"
+  , "aliases": [
+      "family"
+    ]
+  , "tags": [
+      "home"
+    , "parents"
+    , "child"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🧑‍🧑‍🧒"
+  , "description": "family: adult, adult, child"
+  , "category": "People & Body"
+  , "aliases": [
+      "family_adult_adult_child"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
+    "emoji": "🧑‍🧑‍🧒‍🧒"
+  , "description": "family: adult, adult, child, child"
+  , "category": "People & Body"
+  , "aliases": [
+      "family_adult_adult_child_child"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
+    "emoji": "🧑‍🧒"
+  , "description": "family: adult, child"
+  , "category": "People & Body"
+  , "aliases": [
+      "family_adult_child"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
+    "emoji": "🧑‍🧒‍🧒"
+  , "description": "family: adult, child, child"
+  , "category": "People & Body"
+  , "aliases": [
+      "family_adult_child_child"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   }
 , {
     "emoji": "👣"
@@ -8068,6 +8350,17 @@
   , "ios_version": "16.4"
   }
 , {
+    "emoji": "🐦‍🔥"
+  , "description": "phoenix"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "phoenix"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
     "emoji": "🐸"
   , "description": "frog"
   , "category": "Animals & Nature"
@@ -8934,6 +9227,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🍋‍🟩"
+  , "description": "lime"
+  , "category": "Food & Drink"
+  , "aliases": [
+      "lime"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
     "emoji": "🍌"
   , "description": "banana"
   , "category": "Food & Drink"
@@ -9310,6 +9614,17 @@
     ]
   , "unicode_version": "15.0"
   , "ios_version": "16.4"
+  }
+, {
+    "emoji": "🍄‍🟫"
+  , "description": "brown mushroom"
+  , "category": "Food & Drink"
+  , "aliases": [
+      "brown_mushroom"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
   }
 , {
     "emoji": "🍞"
@@ -16865,6 +17180,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "⛓️‍💥"
+  , "description": "broken chain"
+  , "category": "Objects"
+  , "aliases": [
+      "broken_chain"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "15.1"
+  }
+, {
     "emoji": "⛓️"
   , "description": "chains"
   , "category": "Objects"
@@ -23114,7 +23440,7 @@
   }
 , {
     "emoji": "🇹🇷"
-  , "description": "flag: Turkey"
+  , "description": "flag: Türkiye"
   , "category": "Flags"
   , "aliases": [
       "tr"
