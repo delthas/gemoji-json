@@ -739,6 +739,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🫩"
+  , "description": "face with bags under eyes"
+  , "category": "Smileys & Emotion"
+  , "aliases": [
+      "face_with_bags_under_eyes"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
+  }
+, {
     "emoji": "😷"
   , "description": "face with medical mask"
   , "category": "Smileys & Emotion"
@@ -4954,7 +4965,7 @@
   }
 , {
     "emoji": "🧑‍🎄"
-  , "description": "mx claus"
+  , "description": "Mx Claus"
   , "category": "People & Body"
   , "aliases": [
       "mx_claus"
@@ -7292,6 +7303,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🫆"
+  , "description": "fingerprint"
+  , "category": "People & Body"
+  , "aliases": [
+      "fingerprint"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
+  }
+, {
     "emoji": "🐵"
   , "description": "monkey face"
   , "category": "Animals & Nature"
@@ -8620,6 +8642,66 @@
   , "ios_version": "16.4"
   }
 , {
+    "emoji": "🦀"
+  , "description": "crab"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "crab"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🦞"
+  , "description": "lobster"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "lobster"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🦐"
+  , "description": "shrimp"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "shrimp"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "🦑"
+  , "description": "squid"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "squid"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "🦪"
+  , "description": "oyster"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "oyster"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "12.0"
+  , "ios_version": "13.0"
+  }
+, {
     "emoji": "🐌"
   , "description": "snail"
   , "category": "Animals & Nature"
@@ -9165,6 +9247,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🪾"
+  , "description": "leafless tree"
+  , "category": "Animals & Nature"
+  , "aliases": [
+      "leafless_tree"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
+  }
+, {
     "emoji": "🍇"
   , "description": "grapes"
   , "category": "Food & Drink"
@@ -9625,6 +9718,17 @@
   , "tags": [
     ]
   , "unicode_version": "15.1"
+  }
+, {
+    "emoji": "🫜"
+  , "description": "root vegetable"
+  , "category": "Food & Drink"
+  , "aliases": [
+      "root_vegetable"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
   }
 , {
     "emoji": "🍞"
@@ -10247,66 +10351,6 @@
     ]
   , "unicode_version": "11.0"
   , "ios_version": "12.1"
-  }
-, {
-    "emoji": "🦀"
-  , "description": "crab"
-  , "category": "Food & Drink"
-  , "aliases": [
-      "crab"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
-  }
-, {
-    "emoji": "🦞"
-  , "description": "lobster"
-  , "category": "Food & Drink"
-  , "aliases": [
-      "lobster"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  }
-, {
-    "emoji": "🦐"
-  , "description": "shrimp"
-  , "category": "Food & Drink"
-  , "aliases": [
-      "shrimp"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  }
-, {
-    "emoji": "🦑"
-  , "description": "squid"
-  , "category": "Food & Drink"
-  , "aliases": [
-      "squid"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  }
-, {
-    "emoji": "🦪"
-  , "description": "oyster"
-  , "category": "Food & Drink"
-  , "aliases": [
-      "oyster"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
   }
 , {
     "emoji": "🍦"
@@ -15531,6 +15575,17 @@
   , "ios_version": "16.4"
   }
 , {
+    "emoji": "🪉"
+  , "description": "harp"
+  , "category": "Objects"
+  , "aliases": [
+      "harp"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
+  }
+, {
     "emoji": "📱"
   , "description": "mobile phone"
   , "category": "Objects"
@@ -17249,6 +17304,17 @@
     ]
   , "unicode_version": "13.0"
   , "ios_version": "14.0"
+  }
+, {
+    "emoji": "🪏"
+  , "description": "shovel"
+  , "category": "Objects"
+  , "aliases": [
+      "shovel"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
   }
 , {
     "emoji": "⚗️"
@@ -19511,6 +19577,17 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🫟"
+  , "description": "splatter"
+  , "category": "Symbols"
+  , "aliases": [
+      "splatter"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
+  }
+, {
     "emoji": "#️⃣"
   , "description": "keycap: #"
   , "category": "Symbols"
@@ -21263,6 +21340,17 @@
     ]
   , "unicode_version": "11.0"
   , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇨🇶"
+  , "description": "flag: Sark"
+  , "category": "Flags"
+  , "aliases": [
+      "flag_sark"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "16.0"
   }
 , {
     "emoji": "🇨🇷"
